@@ -1,6 +1,6 @@
 # Audio-Book-Corpus
 Audio Book Corpus (ABC) project has been developed to aid linguist researchers in the field of text to   speech for purely academic purposes.
-In the current form, the corpus consists approximately 200 miutes of speech data in German language. Besides German, we are also in the process of developing Corpus Portuguese and Italian langugae. Future versions of 
+In the current form, the corpus consists approximately 200 minutes of speech data in German language. Besides German, we are also in the process of developing Corpus Portuguese and Italian langugae. Future versions of 
 the corpus shall encompass most European languages such as French, Spanish, Czech, Dutch, Polish, Romanian.
 
 CORPUS DETAILS
